@@ -5,7 +5,7 @@
   "homepage": "https://github.com/OlegatorIT/dream-repositiry.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /dream-repositiry/"
   },
   "repository": {
     "type": "git",
